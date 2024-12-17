@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ObsidianTodoWidget</string>
+    <string name="app_widget_description">Show todos from an obsidian note</string>
+
+<!--    Configuration Text-->
+    <string name="config_header">Configure your widget</string>
+    <string name="config_vault_name_hint">Vault Name</string>
+    <string name="config_hide_done_text">Hide task that are done</string>
+    <string name="config_folder_path_hint">Folder Path</string>
+    <string name="config_file_name_hint">File Name</string>
+    <string name="config_header_hint">Limit to Header</string>
+    <string name="config_sub_header_text">Include Sub Header</string>
+    <string name="config_select_button">Select</string>
+    <string name="config_create_button">Add Todo List</string>
+
+<!--    Notification Text-->
+    <string name="channel_name">Obsidian Todo Widget Channel</string>
+    <string name="channel_description">Get reminders for Obsidian tasks</string>
+
+
+</resources>
